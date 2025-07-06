@@ -22,7 +22,7 @@ SELECT COUNT(PRODUCT_ID) AS Product_Count
 FROM PRODUCTS;
 
 -- Query to find the average price of products
-SELECT AVG(PRICE) AS Average_Price
+SELECT AVG(PRICE) AS my_average
 FROM PRODUCTS;
 
 -- Query to find the total price of products
